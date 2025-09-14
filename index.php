@@ -8,7 +8,7 @@
         <div>
             <div style="display: flex; flex-direction: row; margin: 20px;">
                 <div style="width: 50%; text-align: left; place-content: center">
-                    <img src="" class="">
+                    <img src="assets/img/toy-car.png" class="">
                 </div>
                 <div style="width: 10%;" class="nav-top">
                     <a href="sewa.php">Mobil Sewa</a>
@@ -43,7 +43,7 @@
                 <div style="width: 30%;">
                 </div>
                 <div>
-                    <img src="" class="img-car">
+                    <img src="assets/img/mobil.png" class="img-car">
                 </div>
             </div>
 
@@ -129,7 +129,7 @@
                     <a href="" style="padding-left: 5px;">Link</a>
                 </div>
                 <div>
-                    <img src="" class="">
+                    <img src="assets/img/mobil2.png" class="img-mobil">
                 </div>
             </div>
 
@@ -227,7 +227,7 @@
 
             <div style="display: flex; flex-direction: row; margin-top: 100px;">
                 <div style="width: 25%; place-content: left;">
-                    <img src="" class="">
+                    <img src="assets/img/toy-car.png" class="">
                 </div>
                 <div style="display: flex; flex-direction: row; width: 50%; text-align: center; place-content: center;">
                     <div style="width: 10%;" class="nav-top">
@@ -247,11 +247,11 @@
                     </div>
                 </div>
                 <div style="width: 25%; place-content: right; display: flex; flex-direction: row;">
-                    <img src="" class="">
-                    <img src="" class="">
-                    <img src="" class="">
-                    <img src="" class="">
-                    <img src="" class="">
+                    <img src="assets/img/fb.png" class="logo">
+                    <img src="assets/img/ig.png" class="logo">
+                    <img src="assets/img/x.png" class="logo">
+                    <img src="assets/img/linkedin.png" class="logo">
+                    <img src="assets/img/yt.png" class="logo">
                 </div>
             </div>
         </div>
