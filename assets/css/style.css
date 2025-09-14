@@ -1,7 +1,7 @@
 .body {
     margin: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: radial-gradient(circle at top left, #FFFFFF, #2D57CD);
+    background: radial-gradient(circle at top left, #FFFFFF, #2D57CD);
 }
 
 .nav-top {
