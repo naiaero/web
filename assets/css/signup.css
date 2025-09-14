@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #242b3f;
+    background: radial-gradient(circle at top left, #ffffff, #2d57cd);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container {
+    background: #202839;
+    background: radial-gradient(circle at top left, #2d57cd, #ffffff);
+    padding: 30px 40px;
+    border-radius: 10px;
+    width: 360px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+}
+
+.login-form h2 {
+    color: #000000;
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin-bottom: 0.2em;
+    text-align: center;
+}
+
+.login-form .subheading {
+    color: #ccc;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.login-form label {
+    display: block;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 8px;
+    margin-top: 12px;
+    font-size: 1rem;
+}
+
+.forgot-password {
+    color: #000000;
+    font-weight: 600;
+    font-size: 0.85rem;
+    float: right;
+    text-decoration: none;
+}
+
+.forgot-password:hover {
+    text-decoration: underline;
+}
+
+.login-form input[type="Name"],
+.login-form input[type="email"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 12px 14px;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    margin-top: 4px;
+    margin-bottom: 8px;
+    font-style: italic;
+}
+
+.login-form input::placeholder {
+    color: #bbb;
+    font-style: italic;
+}
+
+.btn-login {
+    width: 100%;
+    background-color: #c6c6c6;
+    color: #000000;
+    font-weight: 700;
+    font-size: 1.1rem;
+    padding: 12px 0;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 12px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-login:hover {
+    background-color: #ffffff;
+    background: radial-gradient(circle at top left, #ffffff, #b4bbce);
+}
+
+.btn-google {
+    width: 100%;
+    background: transparent;
+    border: 2px solid #000000;
+    color: #000000;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 10px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 12px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-google:hover {
+    background-color: #2d57cd;
+    color: #000000;
+}
+
+.signup-text {
+    text-align: center;
+    color: #ccc;
+    margin-top: 18px;
+    font-size: 0.9rem;
+}
+
+.signup-text a {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.signup-text a:hover {
+    text-decoration: underline;
+}

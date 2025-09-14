@@ -1,0 +1,57 @@
+.body {
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: radial-gradient(circle at top left, #FFFFFF, #2D57CD);
+}
+
+.nav-top {
+    text-decoration: none;
+    place-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-pes {
+    background-color: #FFFFFF;
+    color: black;
+    font-size: medium;
+    padding: 10px;
+    cursor: pointer;
+    place-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-hub {
+    background-color: black;
+    color: #FFFFFF;
+    font-size: medium;
+    padding: 10px;
+    cursor: pointer;
+    place-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-car {
+    width: 720px;
+    height: auto;
+    place-content: center;
+}
+
+.img-mobil {
+    width: 720px;
+    height: fit-content;
+    place-content: center;
+}
+
+.contact-us {
+    font-size: smaller;
+}
+
+.step-rent {
+    place-content: center;
+    text-align: center;
+    font-size: medium;
+}
+
+.space {
+    padding: 20px;
+}
