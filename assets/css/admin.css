@@ -1,0 +1,33 @@
+.admin-header {
+    text-align: center; 
+    margin: 10px; 
+    font-size: 40px;
+}
+
+.admin-header2 { 
+    margin: 20px; 
+    place-content: center;
+    width: 40%;
+}
+
+.admin {
+    background: radial-gradient(circle at top left, #ffffff, #FDFBD4);
+    margin: 20px;
+}
+
+.garis-hori {
+  border-top: 2px solid black;
+  width: 100%;
+  margin: 15px 0;
+}
+
+.admin-nav {
+    margin: 20px;
+}
+
+.kotak {
+    border: 2px solid black; 
+    padding: 50px;           
+    width: 50px;            
+    text-align: center; 
+}
