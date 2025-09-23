@@ -158,38 +158,48 @@
                 </div>
             </div>
 
-            <div style="margin-top: 100px;">
-                <h2>Testimoni Pelanggan</h2>
-                <p>Layanan yang luar biasa dan mobil berkualitas tinggi!</p>
+            <h2>Testimoni Pelanggan</h2>
+            <p class="subtitle">Layanan yang luar biasa dan mobil berkualitas tinggi!</p>
+
+            <div class="testimoni-container">
+            <!-- Card 1 -->
+            <div class="card">
+                <p>"Pengalaman sewa mobil yang sangat memuaskan!"</p>
+                <div class="profile">
+                <span class="avatar"></span>
+                <div class="profile-info">
+                    <strong>Andi Prasetyo</strong>
+                    <small>Manager, PT Mobilku</small>
+                </div>
+                </div>
+                <a href="#" class="link">Link &gt;</a>
             </div>
 
-            <div style="display: flex; flex-direction: row;">
-                <div style="width: 33%;">
-                    <p>"Pengalaman sewa mobil yang sangat memuaskan!"</p>
-                    <div style="display: flex; flex-direction: row;">
-                        <div style="width: 33%; display:flex; flex-direction: row;">
-                            <img src="" class="img-testi">
-                        </div>
-                    </div>
+            <!-- Card 2 -->
+            <div class="card">
+                <p>"Mobilnya selalu dalam kondisi terbaik!"</p>
+                <div class="profile">
+                <span class="avatar"></span>
+                <div class="profile-info">
+                    <strong>Siti Aminah</strong>
+                    <small>Direktur, CV Sewa</small>
                 </div>
+                </div>
+                <a href="#" class="link">Link &gt;</a>
+            </div>
 
-                <div style="width: 33%;">
-                    <p>"Mobilnya selalu dalam kondisi terbaik."</p>
-                    <div style="display: flex; flex-direction: row">
-                        <div style="width: 33%; display: flex; flex-direction: row;">
-                            <img src="" class="">
-                        </div>
-                    </div>
+            <!-- Card 3 -->
+            <div class="card">
+                <p>"Proses sewa yang cepat dan mudah!"</p>
+                <div class="profile">
+                <span class="avatar"></span>
+                <div class="profile-info">
+                    <strong>Budi Santoso</strong>
+                    <small>Karyawan, PT Transport</small>
                 </div>
-
-                <div style="width: 33%;">
-                    <p>"Proses sewa yang cepat dan mudah!"</p>
-                    <div style="display: flex; flex-direction: row;">
-                        <div style="width: 33%; display: flex; flex-direction: row;">
-                            <img src="" class="">
-                        </div>
-                    </div>
                 </div>
+                <a href="#" class="link">Link &gt;</a>
+            </div>
             </div>
 
             <div style="margin-top: 100px; text-align: center; ">

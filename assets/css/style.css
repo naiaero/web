@@ -11,7 +11,7 @@
 }
 
 .btn-pes {
-    background-color: #FFFFFF;
+    background-color: radial-gradient(circle at top left, #FDFBD4, #ffffff);
     color: black;
     font-size: medium;
     padding: 10px;
@@ -21,8 +21,8 @@
 }
 
 .btn-hub {
-    background-color: black;
-    color: #FFFFFF;
+    background-color: radial-gradient(circle at top left, #FDFBD4, #ffffff);
+    color: black;
     font-size: medium;
     padding: 10px;
     cursor: pointer;
@@ -62,4 +62,65 @@
 .logo {
     width: 45px;
     height: 45px;
+}
+
+h2 {
+font-size: 28px;
+margin-bottom: 5px;
+}
+
+p.subtitle {
+    font-size: 16px;
+    color: #444;
+    margin-bottom: 30px;
+}
+
+.testimoni-container {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.card p {
+    font-style: italic;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.avatar {
+    width: 35px;
+    height: 35px;
+    background: #ddd;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.profile-info strong {
+    display: block;
+}
+
+.link {
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link:hover {
+    text-decoration: underline;
 }
