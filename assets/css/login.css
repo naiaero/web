@@ -70,12 +70,10 @@ body {
     outline: none;
     margin-top: 4px;
     margin-bottom: 8px;
-    font-style: italic;
 }
 
 .login-form input::placeholder {
     color: #bbb;
-    font-style: italic;
 }
 
 .btn-login {

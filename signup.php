@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="login-container">
-        <form class="login-form" action="atur aja ini ntar yaa" method="POST">
+        <form class="login-form" action="proses-signup.php" method="POST">
             <h2>Sign Up</h2>
             <p style="color: #000000;" class="subheading">Lorem ipsum dolor sit amet adipiscing elit.</p>
             <label for="Name">Name*</label>
