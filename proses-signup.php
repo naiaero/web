@@ -18,10 +18,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             echo "<script>alert('Registrasi Berhasil!'); window.location.href = 'login.php';</script>";
         }else {
             if ($koneksi->errno == 1062) {
-                echo "Error: Email " . $email . " sudah terdaftar. <a href='index.html'>Kembali</a>";
+                echo "Error: Email " . $email . " sudah terdaftar. <a href='signup.php'>Kembali</a>";
             }
             else {
-                echo "Error saat registrasi: " . $stmt->error . " <a href='index.html'>Kembali</a>";
+                echo "Error saat registrasi: " . $stmt->error . " <a href='signup.php'>Kembali</a>";
             }
         }$stmt->close();
     }

@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="login-container">
-        <form class="login-form" action="proses-login.php" method="POST">
+        <form class="login-form" action="proses-login.php" method="POST" onsubmit="return validasiForm()">
             <h2>Login to Your Account</h2>
             <p style="color: #000000;" class="subheading">Enter your Email and Password to rent your car</p>
 

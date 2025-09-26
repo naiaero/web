@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 header("Location: admin.php");
                 exit;
             } else {
-                header("Location: index.php"); // halaman user
+                header("Location: sewa.php"); // halaman user
                 exit;
             }
         } else {
