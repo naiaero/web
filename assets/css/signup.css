@@ -60,9 +60,7 @@ body {
     text-decoration: underline;
 }
 
-.login-form input[type="Name"],
-.login-form input[type="email"],
-.login-form input[type="password"] {
+.login-form input {
     width: 100%;
     padding: 12px 14px;
     font-size: 1rem;

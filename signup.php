@@ -15,10 +15,7 @@
             <label for="email">Email*</label>
             <input type="email" id="email" name="email" placeholder="Masukkan Email" required>
 
-            <label for="password">
-                Password*
-                <a href="#" class="forgot-password">Forgot Your Password?</a>
-            </label>
+            <label for="password">Password*<a href="#" class="forgot-password">Forgot Your Password?</a></label>
             <input type="password" id="password" name="password" placeholder="Masukkan Password" required>
 
             <button type="submit" class="btn-login">Sign up</button>
@@ -27,5 +24,7 @@
             <p style="color: #000000;" class="signup-text">Already have an account? <a href="login.php">Log In</a></p>
         </form>
     </div>
+
+    <script src="script.js"></script>
 </body>
 </html>

@@ -51,20 +51,17 @@ function validasiForm() {
         return false;
     }
 
+    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailPattern.test(email)) {
+        alert("Format email tidak valid! (contoh: nama@domain.com)");
+        return false;
+    }
+
     if (password.length < 6) {
         alert("Password minimal harus 6 karakter!");
         return false;
     }
-
-    if(email.indexOf("@") === -1) {
-        alert("Format email tidak valid!");
-        return false;
-    }
-    if(email.indexOf(".") === -1) {
-        alert("Format email tidak valid!");
-        return false;
-    }
-
+    
     console.log("Validasi berhasil, data dikirim ke server.");
     return true;
 }
