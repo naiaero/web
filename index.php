@@ -11,19 +11,19 @@
                     <img src="assets/img/toy-car.png" class="">
                 </div>
                 <div style="width: 10%;" class="nav-top">
-                    <a href="sewa.php">Mobil Sewa</a>
+                    <button onclick="location.href='sewa.php'" class="btn-nav">Mobil Sewa</button>
                 </div>
                 <div style="width: 10%;" class="nav-top">
-                    <a href="index.php">Tentang Kami</a>
+                    <button onclick="location.href='index.php'" class="btn-nav">Tentang Kami</button>
                 </div>
                 <div style="width: 10%;" class="nav-top">
-                    <a href="">Kontak Kami</a>
+                    <button onclick="location.href='#'" class="btn-nav">Kontak Kami</button>
                 </div>
                 <div style="width: 20%;">
                     <button class="btn-pes">
                         Pesan
                     </button>
-                    <button class="btn-hub">
+                    <button class="btn-pes">
                         Hubungi
                     </button>
                 </div>
@@ -33,12 +33,8 @@
                 <div style="width: 35%; place-content: center;">
                     <h2>Sewa Mobil Berkualitas, Harga Terjangkau</h2>
                     <p>Temukan mobil impian Anda untuk setiap kebutuhan. Kami menawarkan berbagai pilihan mobil dengan harga sewa yang bersaing.</p>
-                    <a href="">
-                        <button class="btn-hub">Pelajari</button>
-                    </a>
-                    <a href="signup.php">
-                        <button class="btn-pes">Daftar</button>
-                    </a>
+                    <button class="btn-pes">Pelajari</button>
+                    <button onclick="location.href='signup.php'" class="btn-pes">Daftar</button>
                 </div>
                 <div style="width: 30%;">
                 </div>
@@ -61,8 +57,8 @@
                     <div style="place-content: start-center;">
                         <p style="font-size: small;">Kami menawarkan berbagai pilihan mobil untuk memenuhi kebutuhan perjalanan Anda</p>
                     </div>
-                    <div style="place-content: start-center;">
-                        <a href="">Pelajari</a>
+                    <div>
+                        <button onclick="location.href='#'" class="btn-pes">Pelajari</button>
                     </div>
                 </div>
                 <div style="width: 25%; place-content: center; padding-left: 5%; padding-right: 5%;">
@@ -74,8 +70,8 @@
                     <div style="place-content: start-center;">
                         <p style="font-size: small;">Nikmati harga sewa yang bersaing tanpa biaya tersembunyi</p>
                     </div>
-                    <div style="place-content: start-center;">
-                        <a href="">Daftar</a>
+                    <div>
+                        <button onclick="location.href='#'" class="btn-pes">Daftar</button>
                     </div>
                 </div>
                 <div style="width: 25%; place-content: center;">
@@ -87,8 +83,8 @@
                     <div style="place-content: start-center;">
                         <p style="font-size: small;">Tim kami siap membantu Anda kapan saja selama sewa mobil</p>
                     </div>
-                    <div style="place-content: start-center;">
-                        <a href="">Hubungi</a>
+                    <div>
+                        <button onclick="location.href='#'" class="btn-pes">Hubungi</button>
                     </div>
                 </div>
             </div>
@@ -158,38 +154,48 @@
                 </div>
             </div>
 
-            <div style="margin-top: 100px;">
-                <h2>Testimoni Pelanggan</h2>
-                <p>Layanan yang luar biasa dan mobil berkualitas tinggi!</p>
+            <h2>Testimoni Pelanggan</h2>
+            <p class="subtitle">Layanan yang luar biasa dan mobil berkualitas tinggi!</p>
+
+            <div class="testimoni-container">
+            <!-- Card 1 -->
+            <div class="card">
+                <p>"Pengalaman sewa mobil yang sangat memuaskan!"</p>
+                <div class="profile">
+                <span class="avatar"></span>
+                <div class="profile-info">
+                    <strong>Andi Prasetyo</strong>
+                    <small>Manager, PT Mobilku</small>
+                </div>
+                </div>
+                <a href="#" class="link">Link &gt;</a>
             </div>
 
-            <div style="display: flex; flex-direction: row;">
-                <div style="width: 33%;">
-                    <p>"Pengalaman sewa mobil yang sangat memuaskan!"</p>
-                    <div style="display: flex; flex-direction: row;">
-                        <div style="width: 33%; display:flex; flex-direction: row;">
-                            <img src="" class="img-testi">
-                        </div>
-                    </div>
+            <!-- Card 2 -->
+            <div class="card">
+                <p>"Mobilnya selalu dalam kondisi terbaik!"</p>
+                <div class="profile">
+                <span class="avatar"></span>
+                <div class="profile-info">
+                    <strong>Siti Aminah</strong>
+                    <small>Direktur, CV Sewa</small>
                 </div>
+                </div>
+                <a href="#" class="link">Link &gt;</a>
+            </div>
 
-                <div style="width: 33%;">
-                    <p>"Mobilnya selalu dalam kondisi terbaik."</p>
-                    <div style="display: flex; flex-direction: row">
-                        <div style="width: 33%; display: flex; flex-direction: row;">
-                            <img src="" class="">
-                        </div>
-                    </div>
+            <!-- Card 3 -->
+            <div class="card">
+                <p>"Proses sewa yang cepat dan mudah!"</p>
+                <div class="profile">
+                <span class="avatar"></span>
+                <div class="profile-info">
+                    <strong>Budi Santoso</strong>
+                    <small>Karyawan, PT Transport</small>
                 </div>
-
-                <div style="width: 33%;">
-                    <p>"Proses sewa yang cepat dan mudah!"</p>
-                    <div style="display: flex; flex-direction: row;">
-                        <div style="width: 33%; display: flex; flex-direction: row;">
-                            <img src="" class="">
-                        </div>
-                    </div>
                 </div>
+                <a href="#" class="link">Link &gt;</a>
+            </div>
             </div>
 
             <div style="margin-top: 100px; text-align: center; ">
@@ -231,27 +237,27 @@
                 </div>
                 <div style="display: flex; flex-direction: row; width: 50%; text-align: center; place-content: center;">
                     <div style="width: 10%;" class="nav-top">
-                        <a href="">Menu</a>
+                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
                     </div>
                     <div style="width: 10%;" class="nav-top">
-                        <a href="">Link</a>
+                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
                     </div>
                     <div style="width: 10%;" class="nav-top">
-                        <a href="">Link</a>
+                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
                     </div>
                     <div style="width: 10%;" class="nav-top">
-                        <a href="">Link</a>
+                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
                     </div>
                     <div style="width: 10%;" class="nav-top">
-                        <a href="">Link</a>
+                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
                     </div>
                 </div>
                 <div style="width: 25%; place-content: right; display: flex; flex-direction: row;">
-                    <img src="assets/img/fb.png" class="logo">
-                    <img src="assets/img/ig.png" class="logo">
-                    <img src="assets/img/x.png" class="logo">
-                    <img src="assets/img/linkedin.png" class="logo">
-                    <img src="assets/img/yt.png" class="logo">
+                    <img src="assets/img/fb.png" class="logo" onclick="location.href='https://facebook.com'">
+                    <img src="assets/img/ig.png" class="logo" onclick="location.href='https://instagram.com'">
+                    <img src="assets/img/x.png" class="logo" onclick="location.href='https://x.com'">
+                    <img src="assets/img/linkedin.png" class="logo" onclick="location.href='https://linkedin.com'">
+                    <img src="assets/img/yt.png" class="logo" onclick="location.href='https://youtube.com'">
                 </div>
             </div>
         </div>

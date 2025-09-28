@@ -12,7 +12,7 @@
       <td align="right" style="padding:24px 32px 16px 0;">
         <span style="font-family:sans-serif;font-size:14px;">
           <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Mobil Sewa</a>
-          <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Tentang Kami</a>
+          <a href="index.php" style="margin-right:24px;text-decoration:none;color:#222;">Tentang Kami</a>
           <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Kontak Kami</a>
           <button style="padding:5px 16px;margin-right:8px;">Pesan</button>
           <button style="padding:5px 16px;background:#111;color:#fff;border:1px solid #111;">Hubungi</button>
@@ -29,7 +29,7 @@
   </div>
 
   <!-- Grid Mobil -->
-  <table align="center" cellpadding="16" cellspacing="0" style="width:95%;max-width:1200px;">
+  <table align="center" cellpadding="16" cellspacing="0" style="width:95%; max-width:1200px;">
     <tr>
       <td>
         <table width="100%" style="background:#fafafa;">
