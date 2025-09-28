@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 function validasiForm(){
     const nama = document.getElementById('nama').value;
-=======
 // Sidebar toggle
 const toggleBtn = document.getElementById("toggleBtn");
-const sidebar = document.getElementById("sidebar");
+const sidebar = document.getElementById("sidebar"); 
+}
 
 toggleBtn.addEventListener("click", () => {
   sidebar.classList.toggle("");
@@ -51,7 +50,6 @@ new Chart(salesCtx, {
 
 function validasiForm() {
     const nama = document.getElementById('Name').value;
->>>>>>> ccd3c1af9da2290389a643821a268d3b73b84895
     const email = document.getElementById('email').value;
     const password = document.getElementById('password').value;
 
@@ -60,20 +58,11 @@ function validasiForm() {
         return false;
     }
 
-<<<<<<< HEAD
-    if (password.length < 3) {
-        alert("Password minimal harus 3 karakter!");
-=======
     if (password.length < 6) {
         alert("Password minimal harus 6 karakter!");
->>>>>>> ccd3c1af9da2290389a643821a268d3b73b84895
         return false;
     }
 
     console.log("Validasi berhasil, data dikirim ke server.");
     return true;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ccd3c1af9da2290389a643821a268d3b73b84895
