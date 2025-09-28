@@ -56,6 +56,15 @@ function validasiForm() {
         return false;
     }
 
+    if(email.indexOf("@") === -1) {
+        alert("Format email tidak valid!");
+        return false;
+    }
+    if(email.indexOf(".") === -1) {
+        alert("Format email tidak valid!");
+        return false;
+    }
+
     console.log("Validasi berhasil, data dikirim ke server.");
     return true;
 }

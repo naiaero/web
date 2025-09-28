@@ -8,9 +8,9 @@
     <div class="login-container">
         <form class="login-form" action="proses-signup.php" method="POST" onsubmit="return validasiForm()">
             <h2>Sign Up</h2>
-            <p style="color: #000000;" class="subheading">Lorem ipsum dolor sit amet adipiscing elit.</p>
+            <p style="color: #000000;" class="subheading"></p>
             <label for="Name">Name*</label>
-            <input type="Name" id="Name" name="Name" placeholder="Masukkan Nama" required>
+            <input type="text" id="Name" name="Name" placeholder="Masukkan Nama" required>
 
             <label for="email">Email*</label>
             <input type="email" id="email" name="email" placeholder="Masukkan Email" required>
