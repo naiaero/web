@@ -33,7 +33,6 @@
                 <div style="width: 35%; place-content: center;">
                     <h2>Sewa Mobil Berkualitas, Harga Terjangkau</h2>
                     <p>Temukan mobil impian Anda untuk setiap kebutuhan. Kami menawarkan berbagai pilihan mobil dengan harga sewa yang bersaing.</p>
-                    <button class="btn-pes">Pelajari</button>
                     <button onclick="location.href='signup.php'" class="btn-pes">Daftar</button>
                 </div>
                 <div style="width: 30%;">
@@ -57,9 +56,6 @@
                     <div style="place-content: start-center;">
                         <p style="font-size: small;">Kami menawarkan berbagai pilihan mobil untuk memenuhi kebutuhan perjalanan Anda</p>
                     </div>
-                    <div>
-                        <button onclick="location.href='#'" class="btn-pes">Pelajari</button>
-                    </div>
                 </div>
                 <div style="width: 25%; place-content: center; padding-left: 5%; padding-right: 5%;">
                     <img src="assets/img/infinite.png" class="">
@@ -70,9 +66,6 @@
                     <div style="place-content: start-center;">
                         <p style="font-size: small;">Nikmati harga sewa yang bersaing tanpa biaya tersembunyi</p>
                     </div>
-                    <div>
-                        <button onclick="location.href='#'" class="btn-pes">Daftar</button>
-                    </div>
                 </div>
                 <div style="width: 25%; place-content: center;">
                     <img src="assets/img/car.png" class="">
@@ -82,9 +75,6 @@
                     </div>
                     <div style="place-content: start-center;">
                         <p style="font-size: small;">Tim kami siap membantu Anda kapan saja selama sewa mobil</p>
-                    </div>
-                    <div>
-                        <button onclick="location.href='#'" class="btn-pes">Hubungi</button>
                     </div>
                 </div>
             </div>
@@ -121,8 +111,6 @@
                             <p>Dukungan pelanggan 24/7 untuk kenyamanan Anda</p>
                         </div>
                     </div>
-                    <button class="btn-pes">Button</button>
-                    <a href="" style="padding-left: 5px;">Link</a>
                 </div>
                 <div>
                     <img src="assets/img/mobil2.png" class="img-mobil">
@@ -138,19 +126,16 @@
                     <img src="assets/img/tickets.png" class="">
                     <h2 class="step-rent">Proses Sewa Mobil yang Cepat dan Praktis</h2>
                     <p class="step-rent">Ikuti langkah-langkah berikut untuk menyewa mobil dengan mudah</p>
-                    <a href="" class="step-rent">Link</a>
                 </div>
                 <div style="width: 25%;" class="space">
                     <img src="assets/img/credit-card-alt.png" class="">
                     <h2 class="step-rent">Pilih Mobil yang Sesuai dengan Kebutuhan dan Anggaran Anda</h2>
                     <p class="step-rent">Terdapat berbagai pilihan mobil yang bisa Anda sewa</p>
-                    <a href="" class="step-rent">Link</a>
                 </div>
                 <div style="width: 25%;" class="space">
                     <img src="assets/img/arrow-out-down-right-stroke-square.png" class="">
                     <h2 class="step-rent">Isi Formulir Penyewaan dengan Data Diri Anda</h2>
                     <p class="step-rent">Lengkapi informasi yang diperlukan untuk proses sewa yang cepat</p>
-                    <a href="" class="step-rent">Link</a>
                 </div>
             </div>
 
@@ -168,7 +153,6 @@
                     <small>Manager, PT Mobilku</small>
                 </div>
                 </div>
-                <a href="#" class="link">Link &gt;</a>
             </div>
 
             <!-- Card 2 -->
@@ -181,7 +165,6 @@
                     <small>Direktur, CV Sewa</small>
                 </div>
                 </div>
-                <a href="#" class="link">Link &gt;</a>
             </div>
 
             <!-- Card 3 -->
@@ -194,7 +177,6 @@
                     <small>Karyawan, PT Transport</small>
                 </div>
                 </div>
-                <a href="#" class="link">Link &gt;</a>
             </div>
             </div>
 
@@ -208,25 +190,21 @@
                 <div style="width: 25%; text-align: center;">
                     <img src="assets/img/mail-open.png" class="">
                     <h2>Email</h2>
-                    <p class="contact-us">Silakan kirim pesan melalui email kami untuk pertanyaan</p>
                     <a href="">nnti msup email</a>
                 </div>
                 <div style="width: 25%; text-align: center;">
                     <img src="assets/img/message.png" class="">
                     <h2>Obrolan Langsung</h2>
-                    <p class="contact-us">Hubungi kami melalui obrolan untuk bantuan cepat</p>
                     <a href="">nnti gtw kmn</a>
                 </div>
                 <div style="width: 25%; text-align: center;">
                     <img src="assets/img/phone-ring.png" class="">
                     <h2>Telepon</h2>
-                    <p class="contact-us">Anda dapat menghubungi kami di nomor berikut</p>
                     <a href="">0812567890</a>
                 </div>
                 <div style="width: 25%; text-align: center;">
                     <img src="assets/img/location.png" class="">
                     <h2>Kantor</h2>
-                    <p class="contact-us">Kunjungi kantor kami untuk informasi lebih lanjut</p>
                     <a href="">Gerbong 9 3/4</a>
                 </div>
             </div>
