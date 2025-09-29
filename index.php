@@ -20,11 +20,8 @@
                     <button onclick="location.href='#'" class="btn-nav">Kontak Kami</button>
                 </div>
                 <div style="width: 20%;">
-                    <button class="btn-pes">
+                    <button class="btn-pes" onclick="location.href='signup.php'">
                         Pesan
-                    </button>
-                    <button class="btn-pes">
-                        Hubungi
                     </button>
                 </div>
             </div>
@@ -177,55 +174,11 @@
             </div>
             </div>
 
-            <div style="margin-top: 100px; text-align: center; ">
-                <p>Hubungi</p>
-                <h2>Kontak Kami</h2>
-                <p>Kami siap membantu Anda dengan kebutuhan rental mobil</p>
-            </div>
-
-            <div style="display: flex; flex-direction: row;">
-                <div style="width: 25%; text-align: center;">
-                    <img src="assets/img/mail-open.png" class="">
-                    <h2>Email</h2>
-                    <a href="">nnti msup email</a>
-                </div>
-                <div style="width: 25%; text-align: center;">
-                    <img src="assets/img/message.png" class="">
-                    <h2>Obrolan Langsung</h2>
-                    <a href="">nnti gtw kmn</a>
-                </div>
-                <div style="width: 25%; text-align: center;">
-                    <img src="assets/img/phone-ring.png" class="">
-                    <h2>Telepon</h2>
-                    <a href="">0812567890</a>
-                </div>
-                <div style="width: 25%; text-align: center;">
-                    <img src="assets/img/location.png" class="">
-                    <h2>Kantor</h2>
-                    <a href="">Gerbong 9 3/4</a>
-                </div>
-            </div>
-
             <div style="display: flex; flex-direction: row; margin-top: 100px;">
                 <div style="width: 25%; place-content: left;">
                     <img src="assets/img/toy-car.png" class="">
                 </div>
                 <div style="display: flex; flex-direction: row; width: 50%; text-align: center; place-content: center;">
-                    <div style="width: 10%;" class="nav-top">
-                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
-                    </div>
-                    <div style="width: 10%;" class="nav-top">
-                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
-                    </div>
-                    <div style="width: 10%;" class="nav-top">
-                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
-                    </div>
-                    <div style="width: 10%;" class="nav-top">
-                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
-                    </div>
-                    <div style="width: 10%;" class="nav-top">
-                        <button onclick="location.href='#'" class="btn-nav">Menu</button>
-                    </div>
                 </div>
                 <div style="width: 25%; place-content: right; display: flex; flex-direction: row;">
                     <img src="assets/img/fb.png" class="logo" onclick="location.href='https://facebook.com'">
