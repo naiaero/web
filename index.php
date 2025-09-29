@@ -143,7 +143,6 @@
             <p class="subtitle">Layanan yang luar biasa dan mobil berkualitas tinggi!</p>
 
             <div class="testimoni-container">
-            <!-- Card 1 -->
             <div class="card">
                 <p>"Pengalaman sewa mobil yang sangat memuaskan!"</p>
                 <div class="profile">
@@ -155,7 +154,6 @@
                 </div>
             </div>
 
-            <!-- Card 2 -->
             <div class="card">
                 <p>"Mobilnya selalu dalam kondisi terbaik!"</p>
                 <div class="profile">
@@ -167,7 +165,6 @@
                 </div>
             </div>
 
-            <!-- Card 3 -->
             <div class="card">
                 <p>"Proses sewa yang cepat dan mudah!"</p>
                 <div class="profile">

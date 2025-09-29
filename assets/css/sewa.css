@@ -8,6 +8,10 @@
     --container:1100px;
   }
 
+.body-sewa {
+  background: radial-gradient(circle at top left, #ffffff, #FDFBD4);
+}
+
   *{box-sizing:border-box}
   html,body{height:100%}
   body{
