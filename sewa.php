@@ -5,7 +5,7 @@
   <title>Rental Mobil</title>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
-<body>
+<body class="body">
   <!-- Header -->
   <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:32px;">
     <tr>
