@@ -3,26 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <title>Rental Mobil</title>
-  <link rel="stylesheet" href="assets/css/sewa.css">
-  <link rel="stylesheet" href="assets/css/style.css">
 </head>
-<body class="body-sewa">
+<body>
   <!-- Header -->
   <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:32px;">
     <tr>
-      <td align="left" style="font-family:cursive;font-size:24px;font-weight:bold;padding:24px 0 16px 32px;"><img src="assets/img/toy-car.png" class=""></td>
+      <td align="left" style="font-family:cursive;font-size:24px;font-weight:bold;padding:24px 0 16px 32px;">Logo</td>
       <td align="right" style="padding:24px 32px 16px 0;">
         <span style="font-family:sans-serif;font-size:14px;">
-<<<<<<< HEAD
           <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Mobil Sewa</a>
           <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Tentang Kami</a>
           <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Kontak Kami</a>
           <button style="padding:5px 16px;margin-right:8px;">Pesan</button>
           <button style="padding:5px 16px;background:#111;color:#fff;border:1px solid #111;">Hubungi</button>
-=======
-          <a href="index.php" style="margin-right:24px;text-decoration:none;color:#222;">Tentang Kami</a>
-          <button class="btn-pes" onclick="location.href='index.php'">Log Out</button>
->>>>>>> 1c64c8499fea62ece9c878ffa9bfa3442b3de188
         </span>
       </td>
     </tr>
@@ -35,7 +28,6 @@
     <div style="font-family:sans-serif;font-size:14px;margin-top:8px;">Temukan mobil sewa terbaik untuk kebutuhan Anda</div>
   </div>
 
-<<<<<<< HEAD
 <!-- Grid Mobil -->
 <table align="center" cellpadding="16" cellspacing="0" style="width:95%;max-width:1200px;">
   <tr>
@@ -192,7 +184,7 @@
       <table width="100%" style="background:#fafafa;">
         <tr>
           <td align="center" height="160" style="padding:0;">
-            <img src="assets/img/Euro-spec 2015 Honda Jazz prototype announced for 2014 Paris Motor Show   http___www_4wheelsnews.com_euro-spec-2015-honda-jazz-prototype-announced-for-2014-paris-motor-show_  #honda #jazz #mondialauto #automotive" alt="Honda Jazz" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
+            <img src="assets/img/honda jazz.jpg" alt="Honda Jazz" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
           </td>
         </tr>
         <tr>
@@ -211,194 +203,26 @@
     </td>
   </tr>
 </table>
-=======
-  <!-- Grid Mobil -->
-  <table align="center" cellpadding="16" cellspacing="0" style="width:95%; max-width:1200px;">
-    <tr>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="assets/img/avanza mpv.png" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Toyota Avanza</b>
-              <span style="float:right;font-weight:bold;">Rp500.000</span><br>
-              <span style="color:#888;">MPV</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="https://img.icons8.com/ios-filled/50/cccccc/image.png" alt="img" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Honda CR-V</b>
-              <span style="float:right;font-weight:bold;">Rp750.000</span><br>
-              <span style="color:#888;">SUV</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="https://img.icons8.com/ios-filled/50/cccccc/image.png" alt="img" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Suzuki Ertiga</b>
-              <span style="float:right;font-weight:bold;">Rp600.000</span><br>
-              <span style="color:#888;">MPV</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="https://img.icons8.com/ios-filled/50/cccccc/image.png" alt="img" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Daihatsu Xenia</b>
-              <span style="float:right;font-weight:bold;">Rp550.000</span><br>
-              <span style="color:#888;">MPV</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="https://img.icons8.com/ios-filled/50/cccccc/image.png" alt="img" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Nissan Livina</b>
-              <span style="float:right;font-weight:bold;">Rp650.000</span><br>
-              <span style="color:#888;">MPV</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="https://img.icons8.com/ios-filled/50/cccccc/image.png" alt="img" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Mitsubishi Xpander</b>
-              <span style="float:right;font-weight:bold;">Rp700.000</span><br>
-              <span style="color:#888;">MPV</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="https://img.icons8.com/ios-filled/50/cccccc/image.png" alt="img" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Toyota Fortuner</b>
-              <span style="float:right;font-weight:bold;">Rp1.200.000</span><br>
-              <span style="color:#888;">SUV</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <table width="100%" style="background:#fafafa;">
-          <tr>
-            <td align="center" height="160" style="background:#e0e0e0;">
-              <img src="https://img.icons8.com/ios-filled/50/cccccc/image.png" alt="img" width="48" height="48">
-            </td>
-          </tr>
-          <tr>
-            <td style="font-family:sans-serif;font-size:13px;padding:8px;">
-              <b>Honda Jazz</b>
-              <span style="float:right;font-weight:bold;">Rp400.000</span><br>
-              <span style="color:#888;">Hatchback</span>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:8px;">
-              <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
->>>>>>> 1c64c8499fea62ece9c878ffa9bfa3442b3de188
 
   <!-- Footer -->
   <div style="margin-top:48px;padding:32px 0 0 0;">
     <table width="100%" cellpadding="0" cellspacing="0">
       <tr>
-        <td style="font-family:cursive;font-size:20px;font-weight:bold;padding-left:32px;"><img src="assets/img/toy-car.png" class=""></td>
+        <td style="font-family:cursive;font-size:20px;font-weight:bold;padding-left:32px;">Logo</td>
+        <td align="center" style="font-family:sans-serif;font-size:14px;">
+          Menu &nbsp; Link &nbsp; Link &nbsp; Link &nbsp; Link
+        </td>
+        <td align="right" style="padding-right:32px;">
+          <span style="font-size:18px;">&#9679; &#9679; &#9679; &#9679; &#9679;</span>
+        </td>
       </tr>
     </table>
     <hr style="margin:18px 32px 18px 32px;border:none;border-top:1px solid #ccc;">
     <div style="font-family:sans-serif;font-size:13px;color:#444;padding-left:32px;">
-      © 2025 Rental Mobil. All rights reserved.
+      © 2025 NamaUsaha. All rights reserved.
+      <a href="#">Kebijakan Privasi</a> &nbsp;|&nbsp;
+      <a href="#">Syarat Layanan</a> &nbsp;|&nbsp;
+      <a href="#">Pengaturan Cookies</a>
     </div>
   </div>
 </body>
