@@ -31,7 +31,7 @@
 <table align="center" cellpadding="16" cellspacing="0" style="width:95%;max-width:1200px;">
   <tr>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/download.jpg" alt="Toyota Avanza" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -46,13 +46,13 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
     </td>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/e6b0ccb1-3826-4c56-86d9-df4c02941aca.jpg" alt="Honda CR-V" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -67,13 +67,13 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px;" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
     </td>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/Maruti Suzuki Ertiga New Model - https___www_marutisuzuki.com_channels_arena_suvs-muvs_ertiga" alt="Suzuki Ertiga" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -88,13 +88,13 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px;" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
     </td>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/Daihatsu Xenia.jpg" alt="Daihatsu Xenia" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -109,7 +109,7 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px;" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/Nissan Livina - PHL version.jpg" alt="Nissan Livina" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -132,13 +132,13 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px;" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
     </td>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/Luxurious black colour mitsubishi xpander 2021 car model.jpg" alt="Mitsubishi Xpander" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -153,13 +153,13 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px;" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
     </td>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/731a2892-d521-4f3a-b386-32beda61d455.jpg" alt="Toyota Fortuner" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -174,13 +174,13 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px;" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
     </td>
     <td>
-      <table width="100%" style="background:#fafafa;">
+      <table width="100%" style="background:radial-gradient(circle at top left, #FFFFFF, #FDFBD4);">
         <tr>
           <td align="center" height="160" style="padding:0;">
             <img src="assets/img/honda jazz.jpg" alt="Honda Jazz" width="100%" height="160" style="object-fit:cover;border-radius:8px;">
@@ -195,7 +195,7 @@
         </tr>
         <tr>
           <td style="padding:8px;">
-            <button style="width:100%;padding:6px 0;border:1px solid #222;background:#fff;">Pesan sekarang</button>
+            <button style="width:100%;padding:6px 0;border:1px;" class="btn-pes">Pesan sekarang</button>
           </td>
         </tr>
       </table>
@@ -213,7 +213,7 @@
     </table>
     <hr style="margin:18px 32px 18px 32px;border:none;border-top:1px solid #ccc;">
     <div style="font-family:sans-serif;font-size:13px;color:#444;padding-left:32px;">
-      © 2025 NamaUsaha. All rights reserved.
+      © 2025 Rental Mobil. All rights reserved.
     </div>
   </div>
 </body>
