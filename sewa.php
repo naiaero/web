@@ -3,19 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <title>Rental Mobil</title>
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <!-- Header -->
   <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:32px;">
     <tr>
-      <td align="left" style="font-family:cursive;font-size:24px;font-weight:bold;padding:24px 0 16px 32px;">Logo</td>
+      <td align="left" style="font-family:cursive;font-size:24px;font-weight:bold;padding:24px 0 16px 32px;"><img src="assets/img/toy-car.png" class=""></td>
       <td align="right" style="padding:24px 32px 16px 0;">
         <span style="font-family:sans-serif;font-size:14px;">
-          <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Mobil Sewa</a>
-          <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Tentang Kami</a>
-          <a href="#" style="margin-right:24px;text-decoration:none;color:#222;">Kontak Kami</a>
-          <button style="padding:5px 16px;margin-right:8px;">Pesan</button>
-          <button style="padding:5px 16px;background:#111;color:#fff;border:1px solid #111;">Hubungi</button>
+          <a href="index.php" style="margin-right:24px;text-decoration:none;color:#222;">Tentang Kami</a>
+          <button class="btn-pes"">Logout</button>
         </span>
       </td>
     </tr>
@@ -208,21 +206,13 @@
   <div style="margin-top:48px;padding:32px 0 0 0;">
     <table width="100%" cellpadding="0" cellspacing="0">
       <tr>
-        <td style="font-family:cursive;font-size:20px;font-weight:bold;padding-left:32px;">Logo</td>
-        <td align="center" style="font-family:sans-serif;font-size:14px;">
-          Menu &nbsp; Link &nbsp; Link &nbsp; Link &nbsp; Link
-        </td>
-        <td align="right" style="padding-right:32px;">
-          <span style="font-size:18px;">&#9679; &#9679; &#9679; &#9679; &#9679;</span>
-        </td>
+        <td style="font-family:cursive;font-size:20px;font-weight:bold;padding-left:32px;"><img src="assets/img/toy-car.png" class=""></td>
+        
       </tr>
     </table>
     <hr style="margin:18px 32px 18px 32px;border:none;border-top:1px solid #ccc;">
     <div style="font-family:sans-serif;font-size:13px;color:#444;padding-left:32px;">
       © 2025 NamaUsaha. All rights reserved.
-      <a href="#">Kebijakan Privasi</a> &nbsp;|&nbsp;
-      <a href="#">Syarat Layanan</a> &nbsp;|&nbsp;
-      <a href="#">Pengaturan Cookies</a>
     </div>
   </div>
 </body>
