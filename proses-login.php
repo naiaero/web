@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $_SESSION['role']    = $user['role'];
 
             // cek kondisi: email & password tertentu diarahkan ke admin
-            if ($user['email'] === "admin@example.com" && $password === "admin123") {
+            if ($user['email'] === "admin@gmail.com" && $password === "admin123") {
                 header("Location: admin.php");
                 exit;
             } else {
